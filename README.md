@@ -17,12 +17,12 @@ I'm a passionate self-taught web developer from India 🇮🇳.
 I enjoy building web apps, exploring new technologies and solving real-world problems.
 
 ---
-### 💻 Python Developer | Aspiring Full Stack Developer | Intern
+### 💻 Web Developer | Aspiring Full Stack Developer | Intern
 
 - 🔭 I’m currently working on *Web Projects*
 - 🌱 I’m currently learning *React.js and Node.js*
 - 💬 Ask me about *PHP, Git, APIs*
-- 📫 How to reach me: 
+- 📫 How to reach me: [bitkaran](https://github.com/bitkaran)
 - ⚡ Fun fact: I love turning coffee ☕ into code!
 
 
@@ -42,10 +42,38 @@ I enjoy building web apps, exploring new technologies and solving real-world pro
 </p>
 
 
+
+
 ## 📫 How to Reach Me
 
-- 📧 Email: [karan.devmail@gmail.com]
-- 🔗 LinkedIn: https://www.linkedin.com/in/krn-shekhawat/ 
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:karan.devmail@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" alt="email"/>  
+  </a>
+  
+  <a href="https://www.linkedin.com/in/krn-shekhawat/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" alt="Instagram"/>
+  </a>
+
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="30" alt="Twitter"/>
+  </a>
+
+  <a href="https://wa.me/+91 7877997408" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="30" alt="WhatsApp"/>
+  </a>
+
+  <a href="https://github.com/bitkaran" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="30" alt="GitHub"/>
+  </a>
+</p>
+
 
 ---
 
