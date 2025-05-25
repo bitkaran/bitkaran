@@ -60,7 +60,7 @@ I enjoy building web apps, exploring new technologies and solving real-world pro
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" alt="Instagram"/>
   </a>
 
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://twitter.com/karan_sing71784" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="30" alt="Twitter"/>
   </a>
 
