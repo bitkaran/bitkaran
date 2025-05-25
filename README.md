@@ -17,6 +17,14 @@ I'm a passionate self-taught web developer from India 🇮🇳.
 I enjoy building web apps, exploring new technologies and solving real-world problems.
 
 ---
+### 💻 Python Developer | Aspiring Full Stack Developer | Intern
+
+- 🔭 I’m currently working on *Web Projects*
+- 🌱 I’m currently learning *React.js and Node.js*
+- 💬 Ask me about *PHP, Git, APIs*
+- 📫 How to reach me: 
+- ⚡ Fun fact: I love turning coffee ☕ into code!
+
 
 ## 🧠 My Tech Stack
 
