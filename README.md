@@ -56,7 +56,7 @@ I enjoy building web apps, exploring new technologies and solving real-world pro
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" alt="LinkedIn"/>
   </a>
 
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/krn.shekhawat" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" alt="Instagram"/>
   </a>
 
