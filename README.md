@@ -36,9 +36,8 @@ I enjoy building web apps, exploring new technologies and solving real-world pro
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [your-email@example.com]
-- 🌐 Portfolio: [your-portfolio-link.com] *(optional)*
-- 🔗 LinkedIn: [your-linkedin-profile] *(optional)*
+- 📧 Email: [karan.devmail@gmail.com]
+- 🔗 LinkedIn: [[your-linkedin-profile](https://www.linkedin.com/in/krn-shekhawat/)] *(optional)*
 
 ---
 
