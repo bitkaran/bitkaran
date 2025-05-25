@@ -46,7 +46,6 @@ I enjoy building web apps, exploring new technologies and solving real-world pro
 
 ## 📫 How to Reach Me
 
-## 📫 Connect with Me
 
 <p align="left">
   <a href="mailto:karan.devmail@gmail.com" target="_blank">
