@@ -1,7 +1,10 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Karan+Singh;Full-Stack+Web+Developer;Open+Source+Contributor;Always+Learning+New+Tech!" width="500" />
+  <a href="https://github.com/bitkaran">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Karan+Singh;Full-Stack+Web+Developer;Open+Source+Contributor;Always+Learning+New+Tech!&center=true&width=1000&height=45" alt="Typing SVG" />
+  </a>
 </p>
+
 
 <h1 align="center">👋 Hello, I'm Karan Singh</h1>
 
