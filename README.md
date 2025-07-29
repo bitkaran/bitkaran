@@ -1,7 +1,7 @@
 <!-- Responsive Typing Banner Fix -->
 <p align="center">
   <a href="https://github.com/bitkaran">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Karan+Singh;Full-Stack+Web+Developer;Open+Source+Contributor;Always+Learning+New+Tech!&center=true&font=Fira+Code&size=28" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Karan+Singh;Full-Stack+Web+Developer;Open+Source+Contributor;Always+Learning+New+Tech!&center=true&font=Fira+Code&size=27" alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </a>
 </p>
 
