@@ -65,7 +65,7 @@ I'm a self-taught and highly motivated Web Developer from India 🇮🇳, passio
 - 🔹 [**Panni – Digital Store Platform**](https://github.com/bitkaran/panni)  
   A dynamic and responsive web application for local businesses to manage and showcase their products online.
 
-- 🔹 [**Royal Library Management System**](https://github.com/bitkaran/library-system)  
+- 🔹 [**Royal Library Management System**](https://github.com/bitkaran/library-management-system)  
   Library management system with books, loans, subscriptions, and user profiles built using PHP & MySQL.
 
 > 🛠 Explore more on my GitHub Repositories → [bitkaran](https://github.com/bitkaran)
