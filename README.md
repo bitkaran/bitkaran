@@ -77,7 +77,9 @@ I'm a self-taught and highly motivated Web Developer from India 🇮🇳, passio
 - ✅ **Core PHP** – Udemy  
 - ✅ **AWS Essentials** – IntelliPaat  
 - ✅ **Master AI for Web Development** – Simplilearn  
+- ✅ **MERN: Advanced MERN Development** – Infosys Springboard
 - ✅ **Deloitte Virtual Experience Program** – Forage
+- ✅ **Artificial Intelligence Beginners Guide** – Simplilearn
 
 ---
 
