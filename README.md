@@ -62,6 +62,9 @@ I'm a self-taught and highly motivated Web Developer from India 🇮🇳, passio
 
 ## 💼 Featured Projects
 
+- 🔹 [**Neon-Snake-Arena**](https://github.com/bitkaran/neon-snake-arena)  
+  A modern, responsive snake game with neon glow design, keyboard & mobile controls, and high score tracking using JavaScript.
+
 - 🔹 [**Panni – Digital Store Platform**](https://github.com/bitkaran/panni)  
   A dynamic and responsive web application for local businesses to manage and showcase their products online.
 
