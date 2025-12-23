@@ -65,8 +65,8 @@ I'm a self-taught and highly motivated Web Developer from India 🇮🇳, passio
 - 🔹 [**Neon-Snake-Arena**](https://github.com/bitkaran/neon-snake-arena)  
   A modern, responsive snake game with neon glow design, keyboard & mobile controls, and high score tracking using JavaScript.
 
-- 🔹 [**Panni – Digital Store Platform**](https://github.com/bitkaran/panni)  
-  A dynamic and responsive web application for local businesses to manage and showcase their products online.
+- 🔹 [**SkyCast-Weather-App**](https://github.com/bitkaran/weather-app)  
+  A responsive weather app built using HTML, CSS, and JavaScript with real-time weather data.
 
 - 🔹 [**Royal Library Management System**](https://github.com/bitkaran/library-management-system)  
   Library management system with books, loans, subscriptions, and user profiles built using PHP & MySQL.
