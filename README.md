@@ -78,6 +78,7 @@ I'm a self-taught and highly motivated Web Developer from India 🇮🇳, passio
 ## 📜 Certifications
 
 - ✅ **Core PHP** – Udemy  
+- ✅ **JavaScript, jQuery & TypeScript for Frontend Development** – Udemy  
 - ✅ **AWS Essentials** – IntelliPaat  
 - ✅ **Master AI for Web Development** – Simplilearn  
 - ✅ **MERN: Advanced MERN Development** – Infosys Springboard
