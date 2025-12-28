@@ -62,14 +62,14 @@ I'm a self-taught and highly motivated Web Developer from India 🇮🇳, passio
 
 ## 💼 Featured Projects
 
+- 🔹 [**ChitraX-Image-Editor**](https://github.com/bitkaran/chitrax-image-editor)  
+  A modern, responsive web-based image editor with real-time filters, presets, undo/redo, and mobile-friendly controls.
+  
 - 🔹 [**Neon-Snake-Arena**](https://github.com/bitkaran/neon-snake-arena)  
   A modern, responsive snake game with neon glow design, keyboard & mobile controls, and high score tracking using JavaScript.
 
 - 🔹 [**SkyCast-Weather-App**](https://github.com/bitkaran/weather-app)  
   A responsive weather app built using HTML, CSS, and JavaScript with real-time weather data.
-
-- 🔹 [**Royal Library Management System**](https://github.com/bitkaran/library-management-system)  
-  Library management system with books, loans, subscriptions, and user profiles built using PHP & MySQL.
 
 > 🛠 Explore more on my GitHub Repositories → [bitkaran](https://github.com/bitkaran)
 
